@@ -1,0 +1,1 @@
+🔎️🇰.🇽🌐️ The official source repository for the website of the SearchKX project, an optional search engine addon that helps filter the Internet for personal use to be more friendly towards all. A curated network. 
