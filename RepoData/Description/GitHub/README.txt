@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔎️🇰.🇽🌐️ The official source repository for the website of the SearchKX project, an optional search engine addon that helps filter the Internet for personal use to be more friendly towards all. A curated network. 
